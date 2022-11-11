@@ -121,7 +121,7 @@ REACT_APP_API_BACKEND = [API_URL]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Screenshoots
+<!-- ## Screenshoots
 <p align="center" display=flex>
 <table>
  
@@ -170,7 +170,7 @@ REACT_APP_API_BACKEND = [API_URL]
      <td>Update Profil</td>
   </tr>
 </table>
-
+ -->
 
 
 ## Contributing
