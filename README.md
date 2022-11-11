@@ -89,7 +89,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/wahyuwww/Blanja-Frontend.git
+git clone https://github.com/rifqiahmadpratama/react-intermediate.git
 ```
 
 - Go To Folder Repo
@@ -198,12 +198,4 @@ Contributions are what make the open source community such an amazing place to b
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contact
 
-Wahyu Dwi Purwanto - [linkedin](https://www.linkedin.com/in/wahyu-dwi-purwanto/) - wahyu.aan2508@gmail.com
-
-## License
-
-Distributed under the [MIT](/LICENSE) License.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
