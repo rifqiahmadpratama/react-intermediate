@@ -185,7 +185,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Related Project
+<!-- ## Related Project
 
 :rocket: [`Backend Blanja`](https://github.com/wahyuwww/Blanja-Backend)
 
@@ -196,6 +196,6 @@ Contributions are what make the open source community such an amazing place to b
 :rocket: [`Demo Blanja`](https://react-belanja.vercel.app/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
