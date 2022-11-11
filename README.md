@@ -91,16 +91,7 @@ npm install
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Setup .env
 
-Create .env file in your root project folder.
-
-```
-# app
-REACT_APP_API_BACKEND = [API_URL]
-```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
