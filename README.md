@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/72550248/202631191-5a843fb6-949e-4d70-afcc-51cc0d441ef4.png" alt="Logo" width="200px">
   </a>
   
-  <h3 align="center">Chat Online Frontend with React.js</h3>
+  <h3 align="center">Toko Online Frontend with React.js</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -66,10 +66,10 @@ Make sure that Node JS is installed on the computer.
 
 ### Installation
 
-1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/chatBE)
-2. Clone this repo (Chat-Online-Frontend)
+1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/react-intermediate)
+2. Clone this repo (toko-Online-Frontend)
    ```sh
-   git clone https://github.com/rifqiahmadpratama/chatFE.git
+   git clone https://github.com/rifqiahmadpratama/react-intermediate.git
    ```
 3. Go To Folder Repo
    ```sh
@@ -91,7 +91,7 @@ Make sure that Node JS is installed on the computer.
 
 ## Related Project
 
-:rocket: [`Chat Online Backend`](https://github.com/rifqiahmadpratama/chatBE)
+:rocket: [`Toko Online Backend`](https://github.com/rifqiahmadpratama/IntermediateBackEnd)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
