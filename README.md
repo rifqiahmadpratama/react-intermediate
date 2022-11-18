@@ -1,13 +1,14 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-
-
+<!-- HEADER -->
 <div align="center">
-<br />
-
+  <a href="https://github.com/rifqiahmadpratama/chatFE">
+    <img src="https://user-images.githubusercontent.com/72550248/202629132-9a549d7b-777b-4879-86a6-3a10652b84c3.png" alt="Logo" width="200px">
+  </a>
+  
+  <h3 align="center">Chat Online Frontend with React.js</h3>
 </div>
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -16,23 +17,22 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#setup-env-example">Setup .env example</a></li>
       </ul>
     </li>
-    <li><a href="#screenshoots">Screenshots</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#related-project">Related Project</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#screenshoots">Screenshot</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#our-team">Our Team</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -41,18 +41,17 @@
 
 ## About The Project
 
-Blanja is a web-based marketplace application. This application allows users to sell products and buy existing products. This Blanja application is built using ReactJs for the frontend, ExpressJS for the backend, and Postgresql for data storage.
+Chat Online adalah aplikasi untuk membantu seseorang untuk melakukan komunikasi dengan lawan bicara dengan jarak jauh.
 
 ### Built With
 
-This app was built with some technologies below:
+This application was developed using a framework/library
 
 - [React Js](https://reactjs.org/)
 - [Javascript](https://www.javascript.com/)
 - [Axios](https://axios-http.com/)
 - [Redux](https://redux.js.org/)
 - [Bootstap](https://getbootstrap.com)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -61,52 +60,69 @@ This app was built with some technologies below:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure that Node JS is installed on the computer.
 
-- [nodejs](https://nodejs.org/en/download/)
+- [Node.Js](https://nodejs.org/en/download/)
 
 ### Installation
 
-- Clone This Front End Repo
+1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/chatBE)
+2. Clone this repo (Chat-Online-Frontend)
+   ```sh
+   git clone https://github.com/rifqiahmadpratama/chatFE.git
+   ```
+3. Go To Folder Repo
+   ```sh
+   cd Chat-Online-Frontend
+   ```
+4. Install NPM packages
+   ```sh
+   npm install
+   ```
+5. Enter your API in `.env`
+   ```js
+   REACT_API_BACKEND = "ENTER YOUR API";
+   ```
+6. Start website
+`sh npm start `
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-```
-git clone https://github.com/rifqiahmadpratama/react-intermediate.git
-```
+<!-- Related Project -->
 
-- Go To Folder Repo
+## Related Project
 
-```
-cd Blanja-Frontend.git
-```
-
-- Install Module
-
-```
-npm install
-```
-
-- <a href="#setup-env">Setup .env</a>
-- Type ` npm run dev` To Start Development
-- Type ` npm run start` To Start Production
+:rocket: [`Chat Online Backend`](https://github.com/rifqiahmadpratama/chatBE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- Screenshoots -->
 
+## Screenshoots
 
-
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b improve-blanja`)
-3. Commit your Changes (`git commit -m 'Add some BlanjaFeature'`)
-4. Push to the Branch (`git push origin improve-blanja`)
-5. Open a Pull Request
+<p align="center" display=flex>
+<table>
+  <tr>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202631191-5a843fb6-949e-4d70-afcc-51cc0d441ef4.png" alt="Home Page sebelum login" width=100%></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202631347-f42ddaf8-543f-451f-9721-ec935096d58a.png" alt="Login Page" width=100%/></td>
+  </tr>
+   <tr>
+    <td>Register Page</td>
+    <td>Login Page</td>
+  </tr>
+  
+  <tr>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202631454-d054b021-f2f8-42cb-86a5-883839b61cc2.png" alt="My Bag Page" width=100% ></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202631539-58574585-a353-4f79-90c1-7d59778ed375.png" alt="Modal Title Page" width=100%/></td>
+  </tr>
+ 
+</table>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
+## License
 
+Distributed under the [MIT](/LICENSE) License.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
