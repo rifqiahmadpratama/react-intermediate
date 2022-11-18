@@ -66,7 +66,7 @@ Make sure that Node JS is installed on the computer.
 
 ### Installation
 
-1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/react-intermediate)
+1. Get a free API Key at [https://github.com/rifqiahmadpratama/react-intermediate](https://github.com/rifqiahmadpratama/react-intermediate)
 2. Clone this repo (toko-Online-Frontend)
    ```sh
    git clone https://github.com/rifqiahmadpratama/react-intermediate.git
