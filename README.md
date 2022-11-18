@@ -2,8 +2,8 @@
 
 <!-- HEADER -->
 <div align="center">
-  <a href="https://github.com/rifqiahmadpratama/chatFE">
-    <img src="https://user-images.githubusercontent.com/72550248/202629132-9a549d7b-777b-4879-86a6-3a10652b84c3.png" alt="Logo" width="200px">
+  <a href="https://github.com/rifqiahmadpratama/react-intermediate">
+    <img src="https://user-images.githubusercontent.com/72550248/202631191-5a843fb6-949e-4d70-afcc-51cc0d441ef4.png" alt="Logo" width="200px">
   </a>
   
   <h3 align="center">Chat Online Frontend with React.js</h3>
